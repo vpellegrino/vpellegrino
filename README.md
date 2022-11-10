@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, This is Valentino</h1>
 <h3 align="center">A passionate Software Engineer from Italy</h3>
 
-- 🌱 I’m currently learning **Open Shift, Serverless, Cloud Native, People Management**
+- 🌱 I’m currently learning **Event-driven architectures, Front-end development, Serverless, Cloud Native, Technical leadership, People Management**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vpellegrino?tab=repositories](https://github.com/vpellegrino?tab=repositories)
 
 - 📝 I regularly write articles on [https://blog.kie.org/category/all?search_authors=69](https://blog.kie.org/category/all?search_authors=69)
 
-- 💬 Ask me about **React, TypeScript, Java, WebDevelopment**
+- 💬 Ask me about **TypeScript, JavaScript, Java, Web development, React, Angular**
 
 - 📫 How to reach me **pellegrino.valentino@gmail.com**
 
